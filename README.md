@@ -1,4 +1,5 @@
 Playwright TypeScript Automation Framework
+
 About This Project
 
 This repository contains an independent test automation framework developed using Playwright and TypeScript.
